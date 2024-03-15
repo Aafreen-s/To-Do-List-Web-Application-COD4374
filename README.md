@@ -251,11 +251,7 @@ showTask();
 -saveData() function is defined to save the tasks to the browser's local storage whenever there is a change in the task list.
 -showTask() function is called to display the tasks from local storage when the page is loaded.
 -Overall, the JavaScript code adds interactivity to the To-Do List application, allowing users to add, remove, and mark tasks as completed dynamically.
-
-
  
-
-
 
 7. Conclusion
 In conclusion, the To-Do List web application developed by Aafreen Shaik successfully fulfills the requirements of the internship project. It demonstrates proficiency in HTML, CSS, and JavaScript and provides a functional tool for managing tasks efficiently.
