@@ -1,5 +1,4 @@
 # To-Do-List-Web-Application-COD4374
-Sure, I'll organize the provided information into the specified sections according to your instructions:
 
  1. Title : CODTECH IT SOLUTIONS Intern - Task Submission -To-Do List Web Application
 
